@@ -1,123 +1,178 @@
 
+<!-- =====================================================
+     KHANYILE SIBANDA | RESEARCH & COMPUTATIONAL PORTFOLIO
+     ===================================================== -->
+
 <div align="center">
 
-# KHANYILE SIBANDA
+<!-- Replace this path after uploading your custom avatar -->
+<img src="assets/khanyi-avatar.png" width="190" alt="Khanyile's illustrated avatar" />
 
-### Molecular Biology · Clinical Research · Computational Science
+# Hi, I'm Khanyile Sibanda 👋
 
-**From biological discovery to data-driven research.**
+### Molecular Biologist · Clinical Research · Computational Biology
 
-<img src="https://img.shields.io/badge/Research-Cancer%20Biology-789B83?style=flat-square" />
-<img src="https://img.shields.io/badge/Focus-Computational%20Biology-7893B5?style=flat-square" />
-<img src="https://img.shields.io/badge/Portfolio-In%20Progress-C49A6C?style=flat-square" />
+*Exploring the intersection of biological discovery and data-driven research.*
 
-[GitHub](https://github.com/khanyile-s) · [Repositories](https://github.com/khanyile-s?tab=repositories)
+<br/>
+
+<a href="https://github.com/khanyile-s?tab=repositories">
+  <img src="https://img.shields.io/badge/Explore-My%20Repositories-8DAA91?style=for-the-badge&logo=github&logoColor=white" alt="Explore repositories" />
+</a>
 
 </div>
 
 ---
 
-## 01 / About
+## 🧬 About Me
 
 I'm a molecular and cellular biologist with an MSc from **Ludwig Maximilian University of Munich (LMU)**.
 
-My research background spans cancer biology, neuroscience, astrocyte reprogramming, tumour microenvironments, patient-derived organoids and RNA sequencing.
+My scientific background spans cancer biology, neuroscience, astrocyte reprogramming, tumour microenvironments, patient-derived organoids and RNA sequencing.
 
-I'm also preparing to join **NHS Lothian's oncology clinical trials team at the Edinburgh Cancer Centre** as a Clinical Research Support Worker.
+I'm preparing to join **NHS Lothian's oncology clinical trials team at the Edinburgh Cancer Centre** as a Clinical Research Support Worker.
 
-My current learning direction brings these interests together: clinical research, computational biology, biostatistics and reproducible data analysis.
+I'm now expanding my computational toolkit to connect biological questions with statistical analysis, clinical research data and reproducible computational methods.
 
-This portfolio documents my previous scientific work and my progression towards more quantitative, computational and data-driven research.
+- 🔬 **Research:** Cancer biology, neuroscience and transcriptomics
+- 🏥 **Clinical research:** Oncology trials and research operations
+- 💻 **Computational direction:** SQL, R, Python and biostatistics
+- 🎓 **Long-term goal:** Develop a strong portfolio for funded PhD opportunities
 
-## 02 / Research Interests
+## 📚 Previous Research & Scientific Background
 
-| Area | Research direction |
+My previous work and research interests provide the foundation for my computational portfolio.
+
+| Research area | Scientific focus |
 |:--|:--|
-| Cancer biology | Tumour microenvironments, drug resistance and disease mechanisms |
-| Neuroscience | Astrocyte biology and cellular reprogramming |
-| Transcriptomics | RNA-seq, gene expression and biological interpretation |
-| Clinical research | Clinical trial workflows, research data quality and outcomes |
-| Biomedical data science | Statistical analysis, reproducibility and real-world evidence |
+| Astrocyte reprogramming | Cellular identity and neuroscience |
+| Tumour microenvironments | Cancer biology and disease mechanisms |
+| Patient-derived organoids | Experimental models of human disease |
+| RNA sequencing | Gene expression and transcriptomic analysis |
 
-## 03 / Selected Research
+*I'll link each item to its original project, thesis or publication where available, distinguishing completed research from broader research interests.*
 
-### RNA-seq & Differential Expression
+---
+
+## 🚀 Projects & Research Highlights
+
+### 🧬 Bulk RNA-seq Analysis
+
 **R · DESeq2 · Transcriptomics**
 
-An existing airway RNA-seq project to review, document and develop into a reproducible analysis.
+An existing airway RNA-seq repository to review and develop into a well-documented, reproducible analysis.
 
-[Explore the RNA-seq repository](https://github.com/khanyile-s/rnaseq-airway-deseq2)
+[View repository →](https://github.com/khanyile-s/rnaseq-airway-deseq2)
 
-### Molecular & Cellular Biology
-**Cancer biology · Neuroscience · Experimental models**
+### 🗄️ Clinical SQL & Database Analysis
 
-Previous research interests include astrocyte reprogramming, tumour microenvironments and patient-derived organoid models.
+**SQL · Relational databases · Data quality**
 
-### Clinical Research
-**Oncology · Clinical trials · Research operations**
+Planned project exploring clinical database structures, joins, data validation, missingness and quality-control queries using synthetic data.
 
-Building on my scientific background through clinical research support and a growing interest in the quality, structure and analysis of clinical data.
+`PLANNED`
 
-## 04 / Computational Roadmap
+### 📊 Clinical Data & Biostatistics
 
-The projects below represent my planned learning and portfolio development. Each will be linked to its own repository as it takes shape.
+**R · Statistics · Data visualisation**
 
-| Project | Methods & tools | Status |
-|:--|:--|:--|
-| Clinical SQL Queries | SQL, joins, relational databases, data quality | Planned |
-| Clinical Data Analysis | R, statistics, data visualisation | Planned |
-| Biostatistics & Survival Analysis | Regression, Kaplan–Meier, Cox models | Planned |
-| Clinical eCRF & Data Quality | Data dictionaries, validation, EDC concepts | Planned |
-| Python Health Data Pipelines | Python, data processing, automation | Planned |
-| Real-World Evidence Study | SQL, R, observational data analysis | Planned |
-| Single-Cell RNA-seq | Seurat, clustering, UMAP | Planned |
+Planned analyses covering exploratory data analysis, regression, uncertainty, clinical outcomes and survival analysis.
 
-Projects will use appropriate public or synthetic datasets, with documented methods, limitations and reproducible workflows.
+`PLANNED`
 
-## 05 / Technical Toolkit
+### 🧪 Electronic Clinical Research Data
 
-**Biological data analysis**
+**eCRFs · Data dictionaries · EDC concepts**
 
-![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white)
-![DESeq2](https://img.shields.io/badge/DESeq2-Bioconductor-4A90E2?style=flat-square)
-![Seurat](https://img.shields.io/badge/Seurat-Single--Cell-789B83?style=flat-square)
+A planned synthetic clinical-trial workflow demonstrating form design, validation rules, consistency checks and data-quality reporting.
 
-**Programming & data**
+`PLANNED`
 
-![SQL](https://img.shields.io/badge/SQL-Learning-4479A1?style=flat-square&logo=postgresql&logoColor=white)
-![Python](https://img.shields.io/badge/Python-Developing-3776AB?style=flat-square&logo=python&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+### 🐍 Python for Biomedical Data
 
-**Developing competencies**
+**Python · Pandas · Reproducible workflows**
 
-Biostatistics · Clinical data quality · Reproducible analysis · Data visualisation · Electronic data capture concepts
+Planned exercises in data processing, automated validation and research-oriented analysis.
 
-*The toolkit will evolve as I document practical work. Badges do not imply equal proficiency across all tools.*
+`PLANNED`
 
-## 06 / GitHub Activity
+### 🔎 Real-World Evidence
+
+**SQL · R · Observational research**
+
+A future project using an appropriate public dataset to investigate a biomedical question, document analytical decisions and discuss limitations.
+
+`PLANNED`
+
+[Explore all repositories →](https://github.com/khanyile-s?tab=repositories)
+
+---
+
+## 💻 Computational Learning Roadmap
+
+My focus is on building practical skills through projects rather than collecting technologies without applying them.
+
+| Skill area | Learning direction |
+|:--|:--|
+| SQL | Queries, joins, aggregation and data quality |
+| R | Statistical analysis and visualisation |
+| Biostatistics | Regression, inference and survival analysis |
+| Python | Data manipulation and automation |
+| Clinical data | eCRFs, validation and electronic data capture concepts |
+| Research methods | Reproducibility, interpretation and limitations |
+
+## 🧰 Technical Toolkit
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=khanyile-s&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" alt="GitHub statistics" />
+**Biology & Transcriptomics**
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khanyile-s&layout=compact&theme=github_dark&hide_border=true" alt="Most-used languages" />
+<img src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white" alt="R" />
+<img src="https://img.shields.io/badge/DESeq2-Bioconductor-4A90E2?style=flat-square" alt="DESeq2" />
+<img src="https://img.shields.io/badge/Seurat-Single--cell-789B83?style=flat-square" alt="Seurat" />
+
+<br/>
+
+**Programming & Data**
+
+<img src="https://img.shields.io/badge/SQL-Learning-4479A1?style=flat-square&logo=postgresql&logoColor=white" alt="SQL" />
+<img src="https://img.shields.io/badge/Python-Developing-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
+<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
 
 </div>
 
-## 07 / Beyond the Code
+*Skills and proficiency labels will be updated as I document practical work. Tools I'm learning are not presented as established expertise.*
 
-I'm interested in asking better biological questions, understanding complex systems and finding rigorous ways to interpret scientific data.
+---
 
-My long-term goal is to develop the scientific and computational foundation for doctoral research at the intersection of biology, health data and quantitative methods.
+## 📈 GitHub Activity
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=khanyile-s&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" alt="GitHub statistics" />
+
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=khanyile-s&layout=compact&theme=github_dark&hide_border=true" alt="Most-used languages" />
+
+</div>
+
+---
+
+## 🌱 Beyond the Code
+
+I enjoy exploring how biological systems work, asking better scientific questions and learning methods that make research more rigorous and reproducible.
+
+This portfolio will grow alongside my work: from molecular biology and clinical research towards computational approaches to biomedical discovery.
 
 ---
 
 <div align="center">
 
-*Curiosity → Evidence → Discovery*
+**Curiosity. Evidence. Discovery.**
 
-[Explore my repositories](https://github.com/khanyile-s?tab=repositories)
+<a href="https://github.com/khanyile-s?tab=repositories">Repositories</a>
+·
+<a href="https://orcid.org/">ORCID</a>
 
 </div>
 
